@@ -56,5 +56,3 @@ Example answer:
 
 As of October 13, 2022 Afghanistan had 23,572 people of their population of 40,099,462 vaccinated. 
 
-7.
-
